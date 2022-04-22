@@ -1,11 +1,11 @@
 {
-  "id": "pocopico.v9fs",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/rpext-index.json",
+  "id": "setiadihendry.v9fs",
+  "url": "https://raw.githubusercontent.com/setiadihendry/rp-ext/master/v9fs/rpext-index.json",
   "info": {
     "name": "v9fs",
     "description": "Adds  Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/v9fs",
+    "author_url": "https://github.com/setiadihendry",
+    "packer_url": "https://github.com/setiadihendry/rp-ext/tree/main/v9fs",
     "help_url": "<todo>"
   },
   "releases": {
